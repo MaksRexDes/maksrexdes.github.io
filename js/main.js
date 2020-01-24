@@ -41,6 +41,6 @@ function reset (r) {
 	x = "";
 	y = "";
 	check = true;
+	ans = 0
 	document.getElementById("outputCount").innerText = 0;
 }
-
